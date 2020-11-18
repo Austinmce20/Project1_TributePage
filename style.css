@@ -1,0 +1,46 @@
+
+body {
+    text-align: center;
+    background-color: lightgray;
+    overflow-x: hidden;
+    width: 100vw;
+}
+footer {
+    text-align: center;
+    background-color: darkgray;
+    color: white;  
+    width: 100vw;
+} 
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.darkgraybg {
+    background-color: darkgray;
+    padding-bottom: 1%;
+    width: 100vw;
+}
+
+.parent {
+    text-align: center;
+}
+.parent > ul {
+    display: inline-block;
+}
+
+figure{
+    background-color: #d6dbdf;
+    width: 90vw;
+   
+}
+figcaption {
+    font-size: x-small;
+}
+
+article {
+    width: 85vw;
+}
